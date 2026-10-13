@@ -1,0 +1,73 @@
+{
+  "reviews": 4000,
+  "positive_share": 0.56,
+  "metrics": {
+    "lexicon": {
+      "accuracy": 0.747,
+      "f1": 0.803
+    },
+    "tfidf_logreg": {
+      "accuracy": 0.8,
+      "f1": 0.825
+    }
+  },
+  "most_negative_terms": [
+    "wrong",
+    "cheap",
+    "damaged",
+    "poor",
+    "high",
+    "lower"
+  ],
+  "most_positive_terms": [
+    "penny",
+    "shops",
+    "great",
+    "accurate",
+    "excellent",
+    "solid"
+  ],
+  "topics": [
+    [
+      "delivery",
+      "arrived",
+      "courier",
+      "package",
+      "polite",
+      "earlier"
+    ],
+    [
+      "price",
+      "money",
+      "worth",
+      "lower",
+      "great",
+      "shops"
+    ],
+    [
+      "size",
+      "fits",
+      "chart",
+      "perfectly",
+      "easy",
+      "assemble"
+    ],
+    [
+      "quality",
+      "build",
+      "feels",
+      "material",
+      "excellent",
+      "solid"
+    ],
+    [
+      "support",
+      "refund",
+      "fast",
+      "processed",
+      "replaced",
+      "quickly"
+    ]
+  ],
+  "topic_purity_single_topic_reviews": 0.973
+}
